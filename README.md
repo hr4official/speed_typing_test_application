@@ -12,8 +12,8 @@ A Python Base Typing Speed Testing Application Using Tkinter GUI
 
                                     -- > About Files < -- 
                                   
-- There are Two Files in V 0.0.1 main.py and test.txt 
-- test.txt contains the text which we use to show in our application label for typing 
+- There are Two Files in V 0.0.1 main.py and texts.txt 
+- texts.txt contains the text which we use to show in our application label for typing 
 - main.py file contains the code for application v 0.0.1
 
 
