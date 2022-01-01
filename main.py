@@ -11,7 +11,7 @@ class TypeSpeedGUI:
         self.root = tk.Tk()
         self.root.title("Typing Speed Application")
         self.root.geometry("800x600")
-
+        #to open file and read text from it and showing on label
         self.texts = open("/home/dev/Desktop/hr/Small Projects/speed_typing_test/texts.txt","r").read().split("\n")
 
         self.frame = tk.Frame(self.root)
