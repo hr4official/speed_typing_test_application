@@ -1,12 +1,16 @@
+#librrays
 import tkinter as tk
 import time
 import threading
 import random
 from tkinter.constants import END
 
-
+8866072671
 class TypeSpeedGUI:
-
+    """
+            created class TypeSpeedGUI : in this app the user has shown a text on label and user needs to be 
+            type that on text boc and it will be verified using script 
+    """
     def __init__(self):
         self.root = tk.Tk()
         self.root.title("Typing Speed Application")
