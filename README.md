@@ -20,3 +20,10 @@ A Python Base Typing Speed Testing Application Using Tkinter GUI
                                   --> Execution <<- 
                                
  - Navigate to File location and execute the File 
+
+
+                                  --> Next Feature to add <<-
+                                  
+                                  
+
+    
