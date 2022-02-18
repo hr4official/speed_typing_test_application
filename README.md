@@ -25,5 +25,5 @@ A Python Base Typing Speed Testing Application Using Tkinter GUI
                                   --> Next Feature to add <<-
                                   
                                   
-
-    
+- [ ] UI Improvement (PyQt)
+- [ ] Add delight to the experience when all tasks are complete :tada:
